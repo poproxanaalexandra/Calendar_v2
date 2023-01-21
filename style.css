@@ -1,0 +1,189 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Montserrat", sans-serif;
+}
+
+.full {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+  background-color: #e4e4ff;
+  color: rgb(55, 55, 55);
+  
+}
+.full2 {
+  float: left;
+  width: 100%;
+}
+
+body {
+    color: #d5d5ff;
+  }
+
+img {
+  height: 30px;
+  margin: 0.5rem 2rem;
+}
+
+html {
+  font-size: 62.5%;
+  
+}
+
+@media (min-width: 600px) {
+.container {
+  width: 100%;
+  height: 100vh;
+  background-color: #e4e4ff;
+  color: rgb(0, 0, 0);
+  display: flex;
+  justify-content: center;
+  align-items: center;  
+}
+.calendar {
+  width: 45rem;
+  height: 52rem;
+  background-color: #ffffffb0;
+  box-shadow: 0 0.5rem 2rem rgba(0, 0, 0, 5)
+} 
+
+}
+
+@media (max-width: 599px) {
+  .container {
+    width: 100%;
+    height: 100vh;
+    background-color: #e4e4ff;
+    color: rgb(0, 0, 0);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .calendar {
+    width: 31.5rem;
+    height: 36.4rem;
+    background-color: #ffffffb0;
+    box-shadow: 0 0.5rem 2rem rgba(0, 0, 0, 5)
+
+  
+  }}
+
+
+.container2 {
+  padding-top: 100px;
+  width: 100%;
+  height: 300vh;
+  background-color: #e4e4ff;
+  display: flex;
+  justify-content: center;
+  
+  
+}
+.fundo{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #ff6a6f;
+  margin: 50px auto 0px auto;
+  font-size: 2rem;
+  text-align: center;
+}
+
+
+.today {
+  background-color: #7387fd;
+}
+
+.holiday {
+  background-color: #ff6a6f;
+  position: relative;
+  display: flex;
+  place-content: center;
+}
+
+.holiday .tooltiptext {
+  visibility: hidden;
+  width: 120px;
+  background-color: #555;
+  color: #fff;
+  text-align: center;
+  border-radius: 6px;
+  padding: 5px 0;
+  position: absolute;
+  z-index: 1;
+  bottom: 125%;
+  left: 50%;
+  margin-left: -60px;
+  opacity: 0;
+  transition: opacity 0.3s;
+}
+
+.holiday .tooltiptext::after {
+  content: "";
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: #555 transparent transparent transparent;
+}
+
+.holiday:hover .tooltiptext {
+  visibility: visible;
+  opacity: 1;
+}
+
+.title {
+  align-self: auto;
+  align-items: center;
+  background-color: rgb(0, 0, 0);
+  width: 800px;
+  height: 200px;
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 90%;
+  height: 500px;
+  
+}
+
+.column {
+  
+  flex:1;
+  align-content: space-between;
+  justify-content: center;
+  align-items: center;
+}
+
+.party-title{
+  color: rgb(0, 0, 0);
+  font-family: "Gloria Hallelujah";
+  font-size: 4.5rem;
+  text-shadow: 0 0.3rem 0.5rem rgba(0, 0, 0, 0.1);
+  
+}
+.party-details{
+  color: rgb(0, 0, 0);  
+  font-size: 2rem;
+  text-shadow: 0 0.3rem 0.5rem rgba(0, 0, 0, 0.1);
+}
+.holidays-font{
+  color: rgb(0, 0, 0);  
+  font-size: 2rem;
+  text-shadow: 0 0.3rem 0.5rem rgba(0, 0, 0, 0.1);
+
+}
+
+.holidays-title {
+  color: rgba(0, 0, 0, 0.778);  
+  font-size: 3rem;
+  text-shadow: 0 0.3rem 0.5rem rgba(0, 0, 0, 0.1);
+
+}
