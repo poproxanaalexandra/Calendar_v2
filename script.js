@@ -11,14 +11,14 @@ $(document).ready(function() {
                         date: "January/01/2023",
                         type: "holiday",
                         everyYear: "true",
-                        color: "red",
+                        color: "blue",
                         description: 'Weekend',
                       },
                       { 
                         name: "New Year",
                         date: "January/02/2023",
                         type: "holiday",                        
-                        color: "red",
+                        color: "blue",
                         description: 'Day off',
                        
                       },
@@ -27,28 +27,28 @@ $(document).ready(function() {
                         date: "April/14/2023",
                         type: "holiday",
                         everyYear: "true",
-                        color: "red",
+                        color: "blue",
                         fundo: "Fundo off",
                       },
                       { 
                         name: "Orthodox Easter",
                         date: "April/16/2023",
                         type: "holiday",
-                        color: "red",
+                        color: "blue",
                         description: 'Weekend',
                       },
                       { 
                         name: "Orthodox Easter",
                         date: "April/17/2023",
                         type: "holiday",
-                        color: "red",
+                        color: "blue",
                         description: 'Day off',
                       },
                       { 
                         name: "",
                         date: "April/17/2023",
                         type: "roholiday",                        
-                        color: "yellow",
+                        color: "red",
                         description: 'Fundo are not off',
                       },
                       { 
@@ -56,7 +56,7 @@ $(document).ready(function() {
                         date: "May/29/2023",
                         type: "holiday",
                         everyYear: "true",
-                        color: "red",
+                        color: "blue",
                         description: 'Day off',
                       },
                       { 
@@ -64,7 +64,7 @@ $(document).ready(function() {
                         date: "July/04/2023",
                         type: "holiday",
                         everyYear: "true",
-                        color: "red",
+                        color: "blue",
                         description: 'Day off',
                       },
                       { 
@@ -72,7 +72,7 @@ $(document).ready(function() {
                         date: "November/23/2023",
                         type: "holiday",
                         everyYear: "true",
-                        color: "red",
+                        color: "blue",
                         description: 'Day off',
                       },
                       { 
@@ -80,7 +80,7 @@ $(document).ready(function() {
                         date: "November/24/2023",
                         type: "holiday",
                         everyYear: "true",
-                        color: "red",
+                        color: "blue",
                         description: 'Day off',
                       },
                       { 
@@ -88,7 +88,7 @@ $(document).ready(function() {
                         date: "November/24/2023",
                         type: "roholiday",
                         everyYear: "true",
-                        color: "yellow",
+                        color: "red",
                         description: 'Fundo are not off',
                       },
                       { 
@@ -96,7 +96,7 @@ $(document).ready(function() {
                         date: "December/25/2023",
                         type: "holiday",
                         everyYear: "true",
-                        color: "red",
+                        color: "blue",
                         description: 'Day off',
                       },
                       { 
@@ -104,7 +104,7 @@ $(document).ready(function() {
                         date: "December/26/2023",
                         type: "holiday",
                         everyYear: "true",
-                        color: "red",
+                        color: "blue",
                         description: 'Day off',
                       },
                       { 
@@ -112,7 +112,7 @@ $(document).ready(function() {
                         date: "December/26/2023",
                         type: "roholiday",
                         everyYear: "true",
-                        color: "yellow",
+                        color: "red",
                         description: 'Fundo are not off',
                       },
 
@@ -121,7 +121,7 @@ $(document).ready(function() {
                         date: "January/23/2023",
                         type: "holiday",                        
                         everyYear: "true",
-                        color: "yellow",
+                        color: "red",
                         description: 'We are not off',        
                       },
                       { 
@@ -129,7 +129,7 @@ $(document).ready(function() {
                         date: "January/24/2023",
                         type: "holiday",                        
                         everyYear: "true",
-                        color: "yellow",
+                        color: "red",
                         description: 'We are not off',        
                       },  
 
@@ -244,7 +244,7 @@ $(document).ready(function() {
                         date: "April/14/2023",
                         type: "roholiday",                        
                         everyYear: "true",
-                        color: "yellow",
+                        color: "red",
                         description: 'Not off for the rest of the departments',
                       },
                       { 
@@ -252,7 +252,7 @@ $(document).ready(function() {
                         date: "May/01/2023",
                         type: "roholiday",                        
                         everyYear: "true",
-                        color: "yellow",
+                        color: "red",
                         description: 'We are not off',
                       },
                       { 
@@ -260,7 +260,7 @@ $(document).ready(function() {
                         date: "June/01/2023",
                         type: "roholiday",                        
                         everyYear: "true",
-                        color: "yellow",
+                        color: "red",
                         description: 'We are not off',
                       },
                       { 
@@ -268,7 +268,7 @@ $(document).ready(function() {
                         date: "June/05/2023",
                         type: "roholiday",                        
                         everyYear: "true",
-                        color: "yellow",
+                        color: "red",
                         description: 'We are not off',
                       },
                       { 
@@ -276,7 +276,7 @@ $(document).ready(function() {
                         date: "August/15/2023",
                         type: "roholiday",                        
                         everyYear: "true",
-                        color: "yellow",
+                        color: "red",
                         description: 'We are not off',
                       },
                       { 
@@ -284,7 +284,7 @@ $(document).ready(function() {
                         date: "November/30/2023",
                         type: "roholiday",                        
                         everyYear: "true",
-                        color: "yellow",
+                        color: "red",
                         description: 'We are not off',
                       },
                       { 
@@ -292,7 +292,7 @@ $(document).ready(function() {
                         date: "December/01/2023",
                         type: "roholiday",                        
                         everyYear: "true",
-                        color: "red",
+                        color: "blue",
                         fundo: "Fundo are off"
                       },
                       { 
@@ -300,7 +300,7 @@ $(document).ready(function() {
                         date: "December/01/2023",
                         type: "holiday",
                         everyYear: "true",
-                        color: "yellow",
+                        color: "red",
                         description: 'Not off for the rest of the departments',
                       },
                     ]
