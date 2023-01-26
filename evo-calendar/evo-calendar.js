@@ -604,7 +604,9 @@
         if (event_data.color) {
             markup += 'style="background-color:'+event_data.color+'"'
         }
-        markup += '></div></div><div class="event-info"><p class="event-title">'+_.limitTitle(event_data.name);
+        markup += '></div></div><div class="event-info" <a href=' + event_data.link + ' class="event-link">' + '</a>><p class="event-title">'+_.limitTitle(event_data.name);
+
+
         if (event_data.badge) markup += '<span>'+event_data.badge+'</span>';
         markup += '</p>'
         if (event_data.description) markup += '<p class="event-desc">'+event_data.description+'</p>';
@@ -612,7 +614,7 @@
         markup += '</div>';
         markup += '</div>';
         eventListEl.append(markup);
-
+       
         _.$elements.eventEl.find('[data-event-index="'+(event_data.id)+'"]')
         .off('click.evocalendar')
         .on('click.evocalendar', _.selectEvent);
@@ -797,19 +799,7 @@
         }
     };
 
-    // v1.0.0 - Select event
-    EvoCalendar.prototype.selectEvent = function(event) {
-        var _ = this;
-        var el = $(event.target).closest('.event-container');
-        var id = $(el).data('eventIndex').toString();
-        var index = _.options.calendarEvents.map(function (event) { return (event.id).toString() }).indexOf(id);
-        var modified_event = _.options.calendarEvents[index];
-        if (modified_event.date instanceof Array) {
-            modified_event.dates_range = _.getBetweenDates(modified_event.date);
-        }
-        $(_.$elements.calendarEl).trigger("selectEvent", [_.options.calendarEvents[index]])
-    }
-
+   
     // v1.0.0 - Select year
     EvoCalendar.prototype.selectYear = function(event) {
         var _ = this;

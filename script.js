@@ -136,10 +136,11 @@ $(document).ready(function() {
                       { 
                         name: "Lose some weight",
                         date: "February/10/2023",
-                        type: "party",                        
-                        
+                        type: "party",  
                         color: "purple",
                         description: 'Office Potluck',
+                        link: "https://poproxanaalexandra.github.io/Calendar_v2/party.html?id=0"
+                        
                       },
                       { 
                         name: "Martisor tea/coffee",
