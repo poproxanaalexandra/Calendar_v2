@@ -1,18 +1,18 @@
 {
     "parties": [
         {
-            "name": "Loose some weight Office Potluck",
-            "location": "Constantin Brâncuși Office and Sighet Office",
-            "date": "February 3rd, 2023",
+            "name": "Lose some weight Office Potluck",
+            "location": "Anton Pann Office and Sighet Office",
+            "date": "February 10th, 2023",
             "time": "21PM - 23PM",
             "details": "Bring some healthy food like salads, hummus, vegetables and lets have a chill evening together. Meat can be an option but only if it's cooked in a healthy manner"
         },
         {
             "name": "Mărțisor Tea/Coffee",
-            "location": "Anton Pann office",
+            "location": "Rod Restaurant and Hotel Iza Terrace",
             "date": "March 1st, 2023",
             "time": "12PM - 15PM",
-            "details": "Sighet office is welcome to come and spend the day working from the Cluj office and go back to Sighet the following day"
+            "details": ""
         },
         {
             "name": "Easter Dinner",
@@ -26,12 +26,12 @@
             "location": "Anton Pann office",
             "date": "May 12th, 2023",
             "time": "21PM - ",
-            "details": "Eat pizza, drink and play Mafia"
+            "details": "Eat pizza, drink and play Mafia - employees not working from Cluj Offices are welcome to come and work from Cluj that day - accommodation provided "
         },
         {
             "name": "Summer Party",
             "location": "Location to be updated",
-            "date": "May 27th, 2023",
+            "date": "June 16th, 2023",
             "time": " - ",
             "details": "Details will be added soon"
         },
@@ -41,6 +41,13 @@
             "date": "July 3rd, 2023",
             "time": " All day ",
             "details": "Dresscode: White, Red and Blue. Donuts and Cupcakes on the house"
+        },
+        {
+            "name": "Cojocna Party",
+            "location": "Cojocna",
+            "date": "July 4th, 2023",
+            "time": " All day ",
+            "details": "Annual meeting at Cojocna - Cluj"
         },
         {
             "name": "Pool Party",
@@ -69,6 +76,13 @@
             "date": "December 9th, 2023",
             "time": " - ",
             "details": "Details will be added soon"
+        },
+        {
+            "name": "Other events",
+            "location": "",
+            "date": "",
+            "time": " ",
+            "details": "During the year we will organise several barbeques, trivia nights, gaming tournaments, and so on."
         }
     ],
 

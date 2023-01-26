@@ -134,8 +134,8 @@ $(document).ready(function() {
                       },  
 
                       { 
-                        name: "Loose some weight",
-                        date: "February/03/2023",
+                        name: "Lose some weight",
+                        date: "February/10/2023",
                         type: "party",                        
                         
                         color: "purple",
@@ -147,7 +147,7 @@ $(document).ready(function() {
                         type: "party",                        
                         
                         color: "purple",
-                        description: 'Office Meeting',
+                        description: '',
                       },
                       { 
                         name: "Easter Dinner",
@@ -167,7 +167,7 @@ $(document).ready(function() {
                       },
                       { 
                         name: "Summer Party",
-                        date: "May/27/2023",
+                        date: "June/16/2023",
                         type: "party",                        
                         
                         color: "purple",
@@ -180,15 +180,16 @@ $(document).ready(function() {
                         
                         color: "purple",
                         description: '',
-                      },
+                      }, 
                       { 
-                        name: "Pool Party",
-                        date: "August/19/2023",
+                        name: "Cojocna",
+                        date: "July/04/2023",
                         type: "party",                        
                         
                         color: "purple",
-                        description: '',
+                        description: 'Pool and sunbath at Cojocna',
                       },
+                      
                       { 
                         name: "Pool Party",
                         date: "August/20/2023",
