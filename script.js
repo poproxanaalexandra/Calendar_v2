@@ -174,6 +174,22 @@ $(document).ready(function() {
                         description: '',
                       },
                       { 
+                        name: "Summer Party",
+                        date: "June/17/2023",
+                        type: "party",                        
+                        
+                        color: "purple",
+                        description: '',
+                      },
+                      { 
+                        name: "Summer Party",
+                        date: "June/18/2023",
+                        type: "party",                        
+                        
+                        color: "purple",
+                        description: '',
+                      },
+                      { 
                         name: "Dress to impress",
                         date: "July/03/2023",
                         type: "party",                        
