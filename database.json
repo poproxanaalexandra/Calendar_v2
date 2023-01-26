@@ -31,7 +31,7 @@
         {
             "name": "Summer Party",
             "location": "Location to be updated",
-            "date": "June 16th, 2023",
+            "date": "June 16th - 18th, 2023",
             "time": " - ",
             "details": "Details will be added soon"
         },
@@ -47,12 +47,12 @@
             "location": "Cojocna",
             "date": "July 4th, 2023",
             "time": " All day ",
-            "details": "Annual meeting at Cojocna - Cluj"
+            "details": "Pool and sunbath"
         },
         {
             "name": "Pool Party",
             "location": "Location to be updated",
-            "date": "August 19-20, 2023",
+            "date": "August 20th, 2023",
             "time": " - ",
             "details": "Details will be added soon"
         },
@@ -79,10 +79,10 @@
         },
         {
             "name": "Other events",
-            "location": "",
-            "date": "",
+            "location": "Cluj-Napoca, Sighetul Marmatiei and online",
+            "date": "During the mornings or on weekends",
             "time": " ",
-            "details": "During the year we will organise several barbeques, trivia nights, gaming tournaments, and so on."
+            "details": "During the year we will organise several barbeques, trivia nights, gaming tournaments, movie nights, mafia nights and so on. Keep an eye on the calendar"
         }
     ],
 
