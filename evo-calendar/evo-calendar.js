@@ -159,7 +159,7 @@
             _.selectDate = $.proxy(_.selectDate, _);
             _.selectMonth = $.proxy(_.selectMonth, _);
             _.selectYear = $.proxy(_.selectYear, _);
-            _.selectEvent = $.proxy(_.selectEvent, _);
+            
             _.toggleSidebar = $.proxy(_.toggleSidebar, _);
             _.toggleEventList = $.proxy(_.toggleEventList, _);
             
