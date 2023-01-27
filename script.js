@@ -43,7 +43,7 @@ $(document).ready(function() {
                         date: "April/17/2023",
                         type: "roholiday",                        
                         color: "red",
-                        description: 'Not off',
+                        description: 'We are not off',
                       },
                       { 
                         name: "Memorial Day",
@@ -148,7 +148,6 @@ $(document).ready(function() {
                         name: "Martisor tea/coffee",
                         date: "March/01/2023",
                         type: "party",                        
-                        
                         color: "purple",
                         description: '',
                       },
@@ -156,7 +155,6 @@ $(document).ready(function() {
                         name: "Easter Dinner",
                         date: "April/08/2023",
                         type: "party",                        
-                        
                         color: "purple",
                         description: 'Hotel Iza',
                       },
