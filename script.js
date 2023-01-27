@@ -19,7 +19,7 @@ $(document).ready(function() {
                         date: "January/02/2023",
                         type: "holiday",                        
                         color: "blue",
-                        description: 'Day off',
+                        description: 'Day off for everybody',
                        
                       },
                       { 
@@ -28,7 +28,7 @@ $(document).ready(function() {
                         type: "holiday",
                         everyYear: "true",
                         color: "blue",
-                        fundo: "Fundo off",
+                        fundo: "Day off for everybody",
                       },
                       { 
                         name: "Orthodox Easter",
@@ -37,19 +37,13 @@ $(document).ready(function() {
                         color: "blue",
                         description: 'Weekend',
                       },
+                      
                       { 
-                        name: "Orthodox Easter",
-                        date: "April/17/2023",
-                        type: "holiday",
-                        color: "blue",
-                        description: 'Day off',
-                      },
-                      { 
-                        name: "",
+                        name: "2nd Day after Easter",
                         date: "April/17/2023",
                         type: "roholiday",                        
                         color: "red",
-                        description: 'Fundo are not off',
+                        description: 'Not off',
                       },
                       { 
                         name: "Memorial Day",
@@ -57,7 +51,7 @@ $(document).ready(function() {
                         type: "holiday",
                         everyYear: "true",
                         color: "blue",
-                        description: 'Day off',
+                        description: 'Day off for everybody',
                       },
                       { 
                         name: "Independence Day",
@@ -65,14 +59,14 @@ $(document).ready(function() {
                         type: "holiday",
                         everyYear: "true",
                         color: "blue",
-                        description: 'Day off',
+                        description: 'Day off for everybody',
                       },
                       { 
                         name: "Labor Day",
                         date: "September/04/2023",
                         type: "holiday",                        
                         color: "blue",
-                        description: 'Day off',
+                        description: 'Day off for everybody',
                        
                       },
                       { 
@@ -81,7 +75,7 @@ $(document).ready(function() {
                         type: "holiday",
                         everyYear: "true",
                         color: "blue",
-                        description: 'Day off',
+                        description: 'Day off for everybody',
                       },
                       { 
                         name: "Friday after Thanksgiving",
@@ -105,7 +99,7 @@ $(document).ready(function() {
                         type: "holiday",
                         everyYear: "true",
                         color: "blue",
-                        description: 'Day off',
+                        description: 'Day off for everybody',
                       },
                       { 
                         name: "2nd Day of Christmas",
