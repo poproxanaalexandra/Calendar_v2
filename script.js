@@ -68,6 +68,14 @@ $(document).ready(function() {
                         description: 'Day off',
                       },
                       { 
+                        name: "Labor Day",
+                        date: "September/04/2023",
+                        type: "holiday",                        
+                        color: "blue",
+                        description: 'Day off',
+                       
+                      },
+                      { 
                         name: "Thanksgiving",
                         date: "November/23/2023",
                         type: "holiday",
