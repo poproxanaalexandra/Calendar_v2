@@ -92,7 +92,11 @@
             "name": "New Year"           
         },
         {
-            "date": "16th & 17th of April",
+            "date": "14th of April",
+            "name": "Good Friday"             
+        },
+        {
+            "date": "16th of April",
             "name": "Orthodox Easter"           
         },
         {
@@ -124,8 +128,8 @@
             "name": "Unification of the Romanian Principalities"           
         },
         {
-            "date": "14th of April",
-            "name": "Good Friday"             
+            "date": "17th of April",
+            "name": "2nd day after Easter"             
         },
         {
             "date": "1st of May",

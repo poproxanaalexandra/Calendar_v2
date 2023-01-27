@@ -237,19 +237,11 @@ $(document).ready(function() {
                       { 
                         name: "Christmas Party",
                         date: "December/09/2023",
-                        type: "party",                        
-                       
+                        type: "party",                     
                         color: "purple",
                         description: 'Hotel Iza',
                       },
-                      { 
-                        name: "",
-                        date: "April/14/2023",
-                        type: "roholiday",                        
-                        everyYear: "true",
-                        color: "red",
-                        description: 'Not off for the rest of the departments',
-                      },
+                      
                       { 
                         name: "Romanian Labor Day",
                         date: "May/01/2023",
