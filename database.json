@@ -104,6 +104,10 @@
             "name": "Independence Day"            
         },
         {
+            "date": "4th of September",
+            "name": "Labor Day"           
+        },
+        {
             "date": "23rd & 24th of November",
             "name": "Thanksgiving"            
         },
@@ -116,8 +120,8 @@
     "ROHolidays": [
        
         {
-            "date": "24th of January",
-            "name": "Orthodox Easter"           
+            "date": "23rd - 24th of January",
+            "name": "Unification of the Romanian Principalities"           
         },
         {
             "date": "14th of April",
