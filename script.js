@@ -296,6 +296,22 @@ $(document).ready(function() {
                         color: "red",
                         description: 'Not off for the rest of the departments',
                       },
+                      { 
+                        name: "Seminar for stock market investments",
+                        date: "February/15/2023",
+                        type: "holiday",
+                        color: "black",
+                        description: 'Seminar for management team',
+                        fundo: "seminarforstockinvestment.rsvpify.com"
+                      },
+                      { 
+                        name: "Seminar for momey management",
+                        date: "February/20/2023",
+                        type: "holiday",
+                        color: "black",
+                        description: 'Conference room - ABC Incubator',
+                        fundo: "All departaments are invited"
+                      },
                     ]
   })
 })
