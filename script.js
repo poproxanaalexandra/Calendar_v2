@@ -146,10 +146,10 @@ $(document).ready(function() {
                       },
                       { 
                         name: "Martisor tea/coffee",
-                        date: "March/01/2023",
+                        date: "March/10/2023",
                         type: "party",                        
                         color: "purple",
-                        description: '',
+                        description: 'Restaurant ROD',
                       },
                       { 
                         name: "Easter Dinner",
@@ -167,24 +167,24 @@ $(document).ready(function() {
                         description: 'Roast the boss',
                       },
                       { 
-                        name: "Summer Party",
-                        date: "June/16/2023",
+                        name: "Teambuilding",
+                        date: "June/02/2023",
                         type: "party",                        
                         
                         color: "purple",
                         description: '',
                       },
                       { 
-                        name: "Summer Party",
-                        date: "June/17/2023",
+                        name: "Teambuilding",
+                        date: "June/03/2023",
                         type: "party",                        
                         
                         color: "purple",
                         description: '',
                       },
                       { 
-                        name: "Summer Party",
-                        date: "June/18/2023",
+                        name: "Teambuilding",
+                        date: "June/04/2023",
                         type: "party",                        
                         
                         color: "purple",
@@ -305,8 +305,16 @@ $(document).ready(function() {
                         fundo: "seminarforstockinvestment.rsvpify.com"
                       },
                       { 
-                        name: "Seminar for momey management",
-                        date: "February/20/2023",
+                        name: "Seminar for money management",
+                        date: "March/06/2023",
+                        type: "holiday",
+                        color: "black",
+                        description: 'Conference room - ABC Incubator',
+                        fundo: "All departaments are invited"
+                      },
+                      { 
+                        name: "Insurance policies and life insurance policies",
+                        date: "April/18/2023",
                         type: "holiday",
                         color: "black",
                         description: 'Conference room - ABC Incubator',
