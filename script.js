@@ -170,17 +170,15 @@ $(document).ready(function() {
                         name: "Teambuilding",
                         date: "August/22/2023",
                         type: "party",                        
-                        
                         color: "purple",
-                        description: '',
+                        description: 'Party, fun, pool',
                       },
                       { 
                         name: "Teambuilding",
                         date: "August/23/2023",
                         type: "party",                        
-                        
                         color: "purple",
-                        description: '',
+                        description: 'Party, fun, pool',
                       },
                       { 
                         name: "Teambuilding",
