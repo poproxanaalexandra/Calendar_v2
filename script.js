@@ -168,7 +168,7 @@ $(document).ready(function() {
                       },
                       { 
                         name: "Teambuilding",
-                        date: "June/02/2023",
+                        date: "August/22/2023",
                         type: "party",                        
                         
                         color: "purple",
@@ -176,7 +176,7 @@ $(document).ready(function() {
                       },
                       { 
                         name: "Teambuilding",
-                        date: "June/03/2023",
+                        date: "August/23/2023",
                         type: "party",                        
                         
                         color: "purple",
@@ -184,7 +184,7 @@ $(document).ready(function() {
                       },
                       { 
                         name: "Teambuilding",
-                        date: "June/04/2023",
+                        date: "August/24/2023",
                         type: "party",                        
                         
                         color: "purple",
@@ -192,7 +192,7 @@ $(document).ready(function() {
                       },
                       { 
                         name: "Dress to impress",
-                        date: "July/03/2023",
+                        date: "July/07/2023",
                         type: "party",                        
                         
                         color: "purple",
@@ -206,15 +206,7 @@ $(document).ready(function() {
                         color: "purple",
                         description: 'Pool and sunbath at Cojocna',
                       },
-                      
-                      { 
-                        name: "Pool Party",
-                        date: "August/20/2023",
-                        type: "party",                        
-                        
-                        color: "purple",
-                        description: '',
-                      },
+          
 
                       { 
                         name: "Halloween Party",
