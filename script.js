@@ -168,21 +168,21 @@ $(document).ready(function() {
                       },
                       { 
                         name: "Teambuilding",
-                        date: "August/22/2023",
+                        date: "August/25/2023",
                         type: "party",                        
                         color: "purple",
                         description: 'Party, fun, pool',
                       },
                       { 
                         name: "Teambuilding",
-                        date: "August/23/2023",
+                        date: "August/26/2023",
                         type: "party",                        
                         color: "purple",
                         description: 'Party, fun, pool',
                       },
                       { 
                         name: "Teambuilding",
-                        date: "August/24/2023",
+                        date: "August/27/2023",
                         type: "party",                        
                         
                         color: "purple",
